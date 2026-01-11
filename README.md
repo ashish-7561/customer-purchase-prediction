@@ -11,10 +11,10 @@ This project is a Machine Learning application designed to predict whether a cus
 Key Goal: Solve the business problem of "Targeting the Right Customer" to save ad budget and increase revenue.
 
  🌟 Key Features
-- AI Prediction Engine:** Uses a **Random Forest Classifier** (Accuracy: ~94%) to predict purchase probability.
-- Interactive Dashboard:** Visualizes customer data against market trends using **Plotly** interactive charts.
-- Intelligent Business Advice:** Automatically generates actionable marketing strategies (e.g., "Send Discount Coupon" vs. "Don't Spend Ad Budget") based on predictions.
-- Visual Segmentation:** Plots the customer on a "Spending Score vs. Income" graph to identify their market segment.
+- AI Prediction Engine: Uses a Random Forest Classifier (Accuracy: ~94%) to predict purchase probability.
+- Interactive Dashboard: Visualizes customer data against market trends using Plotly interactive charts.
+- Intelligent Business Advice: Automatically generates actionable marketing strategies (e.g., "Send Discount Coupon" vs. "Don't Spend Ad Budget") based on predictions.
+- Visual Segmentation: Plots the customer on a "Spending Score vs. Income" graph to identify their market segment.
 
 Tech Stack
   Language: Python
